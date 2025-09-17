@@ -1,0 +1,5 @@
+opencv-python>=4.6
+opencv-contrib-python>=4.6
+mediapipe>=0.10
+numpy
+pandas
